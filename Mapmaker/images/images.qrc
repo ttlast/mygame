@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>people.png</file>
+        <file>door0.png</file>
+        <file>door1.png</file>
+        <file>door2.png</file>
+        <file>door3.png</file>
+        <file>door4.png</file>
+        <file>key0.png</file>
+        <file>key1.png</file>
+        <file>key2.png</file>
+        <file>key3.png</file>
+        <file>key4.png</file>
+        <file>wall.png</file>
+        <file>tar.png</file>
+        <file>Luma.ico</file>
+    </qresource>
+</RCC>
